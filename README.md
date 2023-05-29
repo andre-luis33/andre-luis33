@@ -21,7 +21,7 @@ Seja bem-vindo ao meu perfil! Pode clonar qualquer repositório ai, porque foi f
 ##
 
 <div>
-  <a href="https://my-website-five-gray.vercel.app/">
+  <a href="https://my-website-andre-luis33.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Andre-Website">
   </a>
 
@@ -29,7 +29,7 @@ Seja bem-vindo ao meu perfil! Pode clonar qualquer repositório ai, porque foi f
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Andre-Gmail">
   </a>
   
-  <a href="https://www.linkedin.com/in/andre-luis-dev/">
+  <a href="https://www.linkedin.com/in/andre-luis-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Andre-Linkedin">
   </a>
   
