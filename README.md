@@ -1,6 +1,12 @@
 ### Opaa, eu sou o André 👋
+
+Apaixonado por jogos e tecnologia desde criança, e com 19 anos, resolvi ingressar na área de tecnologia. Me formei em Análise e Desenvolvimento de Sistemas, na Unicarioca.
+
+Trabalho há 3 anos como desenvolvedor web, e desde então tenho a oportunidade de me aprofundar cada vez mais nessa área que sempre gostei, e entender de verdade como as coisas funcionam por baixo dos panos.
+
 ##
-Seja bem-vindo ao meu perfil! Pode clonar qualquer repositório ai, porque foi feito com carinho =)
+
+### Skills
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,8 +24,7 @@ Seja bem-vindo ao meu perfil! Pode clonar qualquer repositório ai, porque foi f
 
 </div>
 
-##
-
+### Social
 <div>
   <a href="https://my-website-andre-luis33.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Andre-Website">
