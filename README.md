@@ -90,10 +90,11 @@
 ###
 
 <div align="center">
+<!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-luis33&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="160" alt="languages graph"  />
+  -->
   <img src="https://streak-stats.demolab.com?user=andre-luis33&locale=pt-br&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
-</div>
-
+ </div>
 ###
 
 <h4 align="center">Por enquanto é isso, pode ficar a vontade pra olhar o quanto quiser 😎</h4>
