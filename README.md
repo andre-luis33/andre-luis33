@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Eu sou o André, apaixonado por jogos e tecnologia desde criança, com fortes conhecimentos em desenvolvimento web, atuando na área por mais de 3 anos.<br><br>- 🔭 Atualmente, trabalho na posição de Desenvolvedor Web Full Stack Pleno, usando PHP, Javascript, SQL, PHPUnit, Azure e DevOps .<br>- 📚 Estou me aprofundando cada vez mais em javascript, estudando Node.js e React.js<br>- ⚡ Gosto de fazer projetos reais, em busca de novos desafios, com regras de negócios cabulosas e novas tecnologias</p>
+<p align="left">Eu sou o André, apaixonado por jogos e tecnologia desde criança, com fortes conhecimentos em desenvolvimento web, atuando na área por mais de 5 anos.<br><br>- 🔭 Atualmente, trabalho na posição de Desenvolvedor Web Full Stack Pleno, usando PHP, Javascript, SQL, PHPUnit, Azure e DevOps .<br>- 📚 Estou me aprofundando cada vez mais em javascript, estudando Node.js e React.js<br>- ⚡ Gosto de fazer projetos reais, em busca de novos desafios, com regras de negócios cabulosas e novas tecnologias</p>
 
 ###
 
